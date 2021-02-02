@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Eyeglare/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Eyeglare/static/js/main.f1fc3e82.chunk.js",
+    "main.js.map": "/Eyeglare/static/js/main.f1fc3e82.chunk.js.map",
+    "runtime-main.js": "/Eyeglare/static/js/runtime-main.9a4ac675.js",
+    "runtime-main.js.map": "/Eyeglare/static/js/runtime-main.9a4ac675.js.map",
+    "static/css/2.d34346ea.chunk.css": "/Eyeglare/static/css/2.d34346ea.chunk.css",
+    "static/js/2.337319da.chunk.js": "/Eyeglare/static/js/2.337319da.chunk.js",
+    "static/js/2.337319da.chunk.js.map": "/Eyeglare/static/js/2.337319da.chunk.js.map",
+    "index.html": "/Eyeglare/index.html",
+    "precache-manifest.9bb93a0b2f5967b8deb035867d3d82ca.js": "/Eyeglare/precache-manifest.9bb93a0b2f5967b8deb035867d3d82ca.js",
+    "service-worker.js": "/Eyeglare/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/Eyeglare/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Eyeglare/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.337319da.chunk.js.LICENSE.txt": "/Eyeglare/static/js/2.337319da.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/Eyeglare/static/media/getFetch.013f0b90.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a4ac675.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.337319da.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f1fc3e82.chunk.js"
+  ]
+}

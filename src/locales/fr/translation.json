@@ -1,0 +1,37 @@
+{
+    "main": {
+        "nav":{
+            "top": {
+                "help": "Besoin d'Aide?",
+                "en": "English",
+                "fr": "Français",
+                "cart": "Mon Panier"
+            },
+            "ext": {
+                "welcome": "Bienvenue",
+                "glasses": "Lunettes",
+                "customize": "Personnaliser",
+                "tryon": "Essayer",
+                "order": "Vérifier la commande"
+            }
+        },
+
+        "welcome": {
+            "header": "Une expérience d'achat de lunettes personnalisée",
+            "btn":{
+                "1" : "En Savoir Plus",
+                "2" : "Commencez"
+            }
+            },
+        
+        "body": {
+            "header": "Notre plateforme capture une carte précise des préférences de style personnelles de chaque client pour les aider:",
+            "content": "Trouvez des lunettes en ligne à l’aspect et au confort exceptionnels. Des montures rétro ou ultramodernes, offertes au Canada, avec protection contre la lumière bleue, lentilles progressives et plus.",
+            "btn": "Commencez"
+        },
+
+        "footer": {
+            "text": "Site créé par Cem Aydin"
+        }
+    }
+}

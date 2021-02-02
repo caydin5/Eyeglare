@@ -1,0 +1,37 @@
+{
+    "main": {
+        "nav":{
+            "top": {
+                "help": "Need Help?",
+                "en": "English",
+                "fr": "Français",
+                "cart": "My Cart"
+            },
+            "ext": {
+                "welcome": "Welcome",
+                "glasses": "Glasses",
+                "customize": "Customize",
+                "tryon": "Try On",
+                "order": "Review Order"
+            }
+        },
+
+        "welcome": {
+            "header": "A personalized eyewear shopping experience",
+            "btn":{
+                "1" : "Learn More",
+                "2" : "Get Started"
+            }
+            },
+        
+        "body": {
+            "header": "Our platform captures a precise map of each customer’s personal style preferences to help them:",
+            "content": "Find glasses that make you look and feel amazing. Explore everything from retro-inspired to ultramodern prescription glasses. All your favourite eyeglasses styles in one place.",
+            "btn": "Get Started"
+        }
+    },
+
+    "footer": {
+        "text": "Site created by Cem Aydin"
+    }
+}
